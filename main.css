@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+body {
+  -webkit-text-fill-color: white;
+}
+body {
+  font-family: "Anton", sans-serif;
+}
+li {
+  display: inline;
+}
